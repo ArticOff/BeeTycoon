@@ -7,7 +7,7 @@ I've used [Love2d](https://love2d.org/), some modules from [kikito](https://gith
 
 ## Windows
 
-You can reach an executable in the bin folder.
+You can reach a zipped file in the bin folder.
 
 ## Linux
 
